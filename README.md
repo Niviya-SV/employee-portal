@@ -18,5 +18,3 @@ A sample Git learning project.
 
 NIVIYA
 
-
-
